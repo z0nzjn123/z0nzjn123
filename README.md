@@ -36,4 +36,5 @@ I have some works with **JavaScript**, **Node.js**, **React.JS**, **C#**, and **
 <h2>⚡ GitHub Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=z0nzjn123&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
+  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=z0nzjnn123&theme=react&hide_border=true" alt="Wakatime" />
 </p>
