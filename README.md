@@ -30,7 +30,7 @@ I have some works with **JavaScript**, **Node.js**, **React.JS**, **C#**, and **
 
 <h2>🔖 Projects</h2>
 <p>
-  <img src="https://i.imgur.com/S64MUuj.png" alt="Next Evolution Roleplay" />
+  <img src="https://i.imgur.com/7Qu1B2L.png" alt="Next Evolution Roleplay" />
 </p>
  
 <h2>⚡ GitHub Stats</h2>
