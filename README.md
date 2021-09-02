@@ -4,7 +4,7 @@
   <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
 </p>
 
-Hi guys, I'm **z0n**. I am a developer from <img alt="Vietnamese Flag" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="13" /> **Vietnamese, Ho Chi Minh City**. I'm currently working on SA-MP Server Developer.
+Hi guys, I'm **z0n**. I am a developer from <img alt="Vietnamese Flag" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="13" /> **Vietnamese, Ho Chi Minh City**. I'm currently working on FiveM Server Developer.
 I have some works with **JavaScript**, **Node.js**, **React.JS**, **C#**, and **C++**, contact me if you have same interesting or some questions!
 </br>📫 How to reach me: <a href="https://www.facebook.com/z0n97/">Facebook</a>
 
@@ -30,7 +30,7 @@ I have some works with **JavaScript**, **Node.js**, **React.JS**, **C#**, and **
 
 <h2>🔖 Projects</h2>
 <p>
-  <img src="https://i.imgur.com/Wpo2uMD.png" alt="Next Evolution Roleplay" />
+  <img src="https://i.imgur.com/S64MUuj.png" alt="Next Evolution Roleplay" />
 </p>
  
 <h2>⚡ GitHub Stats</h2>
